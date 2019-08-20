@@ -36,6 +36,7 @@
     "webpack-dev-server": "^1.9.0"
   },
   "scripts": {
+    "build": "next build",
     "prod": "webpack -p --progress --colors",
     "dev": "webpack-dev-server --progress --colors",
     "start": "npm run dev"
