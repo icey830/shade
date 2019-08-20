@@ -9,7 +9,7 @@ var data = {
   description: pkg.description,
   keywords: pkg.keywords,
   links: [
-    { href: '//github.com/jxnblk/shade', text: 'GitHub' }
+    { href: '//github.com/icey830/shade', text: 'GitHub' }
   ]
 }
 
