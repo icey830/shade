@@ -1,7 +1,7 @@
 # Shade
 Mathematically derived gradient explorer
 
-http://jxnblk.com/shade
+http://git.elvns.com/shade
 
 ## Setup
 
